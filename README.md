@@ -1,2 +1,2 @@
 # DiceRoller
-Aplication to roll dices im .py
+Aplication to roll dices in .py
